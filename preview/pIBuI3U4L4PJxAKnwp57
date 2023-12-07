@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/learningstudioai-icon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="google" content="notranslate" />
+
+    <!-- HTML Meta Tags -->
+    <title>Create courses with AI-powered authoring tool | LearningStudioAI</title>
+    <meta name="description" content="Transform any subject into a stunning online course with LearningStudioAI. Our AI-powered authoring tool makes course creation effortless, so you can focus on what matters most - building engaging content. Enjoy seamless scaling across all devices, with magical-feeling features that delight learners. Already have your own platform? LearningStudioAI provides best-in-class quality of service learning analytics to help you optimize your teaching. Get started today and unleash the power of AI in education." />
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://learningstudioai.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Create courses with AI-powered authoring tool | LearningStudioAI" />
+    <meta property="og:description" content="Transform any subject into a stunning online course with LearningStudioAI. Our AI-powered authoring tool makes course creation effortless, so you can focus on what matters most - building engaging content. Enjoy seamless scaling across all devices, with magical-feeling features that delight learners. Already have your own platform? LearningStudioAI provides best-in-class quality of service learning analytics to help you optimize your teaching. Get started today and unleash the power of AI in education." />
+    <meta
+      property="og:image"
+      content="https://learningstudioai.com/learningstudioai-logo-square.png"
+    />
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:domain" content="learningstudioai.com" />
+    <meta property="twitter:url" content="https://learningstudioai.com/" />
+    <meta name="twitter:title" content="Create courses with AI-powered authoring tool | LearningStudioAI" />
+    <meta name="twitter:description" content="Transform any subject into a stunning online course with LearningStudioAI. Our AI-powered authoring tool makes course creation effortless, so you can focus on what matters most - building engaging content. Enjoy seamless scaling across all devices, with magical-feeling features that delight learners. Already have your own platform? LearningStudioAI provides best-in-class quality of service learning analytics to help you optimize your teaching. Get started today and unleash the power of AI in education." />
+    <meta
+      name="twitter:image"
+      content="https://learningstudioai.com/learningstudioai-logo-square.png"
+    />
+
+    <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+    <script type="module" crossorigin src="/assets/index-462dc4aa.js"></script>
+    <link rel="stylesheet" href="/assets/index-342196cf.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    
+
+    <!-- Hotjar Tracking Code -->
+    <script>
+      (function (h, o, t, j, a, r) {
+        h.hj =
+          h.hj ||
+          function () {
+            (h.hj.q = h.hj.q || []).push(arguments);
+          };
+        h._hjSettings = { hjid: +'3534550', hjsv: 6 };
+        a = o.getElementsByTagName('head')[0];
+        r = o.createElement('script');
+        r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+      })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+
+    <!-- Rewardful Javascript tag + snippet -->
+    <script>
+      (function (w, r) {
+        w._rwq = r;
+        w[r] =
+          w[r] ||
+          function () {
+            (w[r].q = w[r].q || []).push(arguments);
+          };
+      })(window, 'rewardful');
+    </script>
+    <script
+      async
+      src="https://r.wdfl.co/rw.js"
+      data-rewardful="a31e1e"
+    ></script>
+  </body>
+</html>
